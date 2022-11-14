@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2022, Genomics to Notebook
+Copyright (c) 2022 The Broad Institute and The Regents of the University of California
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
