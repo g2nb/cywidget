@@ -18,8 +18,7 @@ setup_args = dict(
     long_description_content_type="text/markdown",
     install_requires=[
         "jupyterlab>=3.0",
-        "ipywidgets>=7.0.0",
-        "ipycytoscape",
+        "ipywidgets>=7.0.0"
     ],
     zip_safe=False,
     include_package_data=True,
