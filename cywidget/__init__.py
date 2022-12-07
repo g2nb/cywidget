@@ -6,7 +6,7 @@ import json
 __version__ = '1.0.0'
 
 
-@build_ui(name='Display Cytoscape Network',
+@build_ui(name='Cytoscape Network',
           description='Displays a Cytoscape network in the notebook.',
           origin='+',
           color='rgb(210, 140, 34)',
