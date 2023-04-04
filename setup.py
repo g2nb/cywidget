@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setup_args = dict(
     name='cywidget',
-    version='1.0.0',
+    version='1.1.0',
     packages=['cywidget'],
     url="https://github.com/g2nb/cywidget",
     author="Thorin Tabor",
